@@ -1,0 +1,169 @@
+h_teacher_welcome | teacher  | Hello, dear friends! Welcome to our English lesson!
+h_teacher_smile  | teacher  | Today, we will learn about *naming things* in your *room*.  # focus: room
+h_teacher_point  | teacher  | Let's get ready to speak clearly and have fun!
+
+== Section Title
+narrator         | narrator | The Listening and Speaking Story
+s_adis_room_wide | teacher  | Look! This is *Adi's room*.
+s_adi_enter_room | teacher  | Adi likes to play in his *room*. walk  # focus: room
+s_adi_stand_up   | teacher  | He stands up.
+s_adi_point_bed  | teacher  | He points his finger towards his *bed*.  # focus: bed
+s_adi_speak      | adi      | Look at my soft, blue *bed*!  # focus: bed
+s_adi_jump_bed   | teacher  | He jumps up and down on his *bed*. alt=s_adi_jump_bed_up  # focus: bed
+s_adi_smile      | teacher  | He likes his *bed* very much!  # focus: bed
+s_adi_walk_corner | teacher  | Next, Adi walks to the corner of his *room*. walk  # focus: room
+s_adi_touch_table | teacher  | He touches his wooden *table*.  # focus: table
+i_table_lamp     | teacher  | On top of the *table* is a little *lamp*.  # focus: table, lamp
+i_lamp_on        | teacher  | Flash! The *lamp* shines bright *light*.  # focus: lamp, light
+s_adi_sit_chair  | teacher  | Adi sits down on his green *chair*.  # focus: chair
+s_adi_look_box   | teacher  | He looks at his big *box*.  # focus: box
+i_box_open       | teacher  | What is inside the *box*?  # focus: box
+i_toys_in_box    | teacher  | It is full of *toys*!  # focus: toys
+s_adi_pull_car   | teacher  | He pulls out a shiny red *car*.  # focus: car
+s_adi_smile      | adi      | I love my *room*!  # focus: room
+
+== Section Title
+narrator         | narrator | Listen and Repeat
+h_teacher_ask    | teacher  | Now, let's check what you remember from Adi's story.
+h_teacher_listen | teacher  | Listen carefully and *repeat* the answers after me.  # focus: repeat
+h_teacher_question | teacher  | What color is Adi's *bed*?  # focus: bed
+h_teacher_pause  | teacher  | (Pause for child to answer)
+h_teacher_answer | teacher  | It is *blue*! Please *repeat*: It is *blue*!  # focus: blue, repeat, blue
+h_teacher_question | teacher  | What shines bright *light* on the *table*?  # focus: light, table
+h_teacher_pause  | teacher  | (Pause for child to answer)
+h_teacher_answer | teacher  | The *lamp*! Please *repeat*: The *lamp*!  # focus: lamp, repeat, lamp
+h_teacher_question | teacher  | Where does Adi sit down?
+h_teacher_pause  | teacher  | (Pause for child to answer)
+h_teacher_answer | teacher  | On the *chair*! Please *repeat*: On the *chair*!  # focus: chair, repeat, chair
+h_teacher_question | teacher  | What is inside the big *box*?  # focus: box
+h_teacher_pause  | teacher  | (Pause for child to answer)
+h_teacher_answer | teacher  | *Toys*! Please *repeat*: *Toys*!  # focus: Toys, repeat, Toys
+h_teacher_question | teacher  | Say "Yes" or "No": Is Adi sad in his *room*?  # focus: room
+h_teacher_pause  | teacher  | (Pause for child to answer)
+h_teacher_answer | teacher  | *No*! Please *repeat*: *No*!  # focus: No, repeat, No
+
+== Section Title
+narrator         | narrator | Speech Focus and Word Shortcuts
+h_teacher_explain | teacher  | Let's practice saying some words clearly.
+h_teacher_point  | teacher  | Listen to how I say the word, then *repeat* after me.  # focus: repeat
+i_bed            | teacher  | This is a *bed*. Listen to the 'd' sound.  # focus: bed
+h_teacher_say_word | teacher  | *Bed*. rate=-20% card=Bed;split=Be-d  # focus: Bed
+h_teacher_repeat | teacher  | Now, you *repeat*: *Bed*.  # focus: repeat, Bed
+i_table          | teacher  | This is a *table*. Listen to the 'b' sound.  # focus: table
+h_teacher_say_word | teacher  | *Table*. rate=-20% card=Table;split=Ta-ble  # focus: Table
+h_teacher_repeat | teacher  | Now, you *repeat*: *Table*.  # focus: repeat, Table
+i_chair          | teacher  | This is a *chair*. Listen to the 'r' sound.  # focus: chair
+h_teacher_say_word | teacher  | *Chair*. rate=-20% card=Chair;split=Ch-air  # focus: Chair
+h_teacher_repeat | teacher  | Now, you *repeat*: *Chair*.  # focus: repeat, Chair
+i_lamp           | teacher  | This is a *lamp*. Listen to the 'mp' sound.  # focus: lamp
+h_teacher_say_word | teacher  | *Lamp*. rate=-20% card=Lamp;split=La-mp  # focus: Lamp
+h_teacher_repeat | teacher  | Now, you *repeat*: *Lamp*.  # focus: repeat, Lamp
+i_box            | teacher  | This is a *box*. Listen to the 'ks' sound.  # focus: box
+h_teacher_say_word | teacher  | *Box*. rate=-20% card=Box;split=Bo-x  # focus: Box
+h_teacher_repeat | teacher  | Now, you *repeat*: *Box*.  # focus: repeat, Box
+i_toys           | teacher  | These are *toys*. Listen to the 'z' sound.  # focus: toys
+h_teacher_say_word | teacher  | *Toys*. rate=-20% card=Toys;split=Toy-z  # focus: Toys
+h_teacher_repeat | teacher  | Now, you *repeat*: *Toys*.  # focus: repeat, Toys
+h_teacher_explain | teacher  | We can also use *short* ways to say words. These are called *shortcuts*.  # focus: short, shortcuts
+h_teacher_point  | teacher  | Instead of "What is this?", we say "What's this?".
+h_teacher_say_word | teacher  | *What's this*?
+h_teacher_repeat | teacher  | Now, *repeat*: *What's this*?  # focus: repeat
+h_teacher_point  | teacher  | Instead of "It is a...", we say "It's a...".
+h_teacher_say_word | teacher  | *It's a*...
+h_teacher_repeat | teacher  | Now, *repeat*: *It's a*...  # focus: repeat
+h_teacher_point  | teacher  | Instead of "I am...", we say "I'm...".
+h_teacher_say_word | teacher  | *I'm*...
+h_teacher_repeat | teacher  | Now, *repeat*: *I'm*...  # focus: repeat
+
+== Section Title
+narrator         | narrator | Real-Life Spoken Conversations
+h_teacher_explain | teacher  | Let's practice some conversations. We will pretend to be different people.
+h_teacher_smile  | teacher  | This helps us speak with confidence!
+s_adi_sam_room   | teacher  | Here is Adi showing his *room* to his friend, Sam.  # focus: room
+s_adi_sam_door   | adi      | Welcome to my *room*! Come in!  # focus: room
+s_sam_enter      | sam      | Wow! Your *room* is so clean. *What's this*?  # focus: room
+s_sam_point_wall | sam      | (pointing near the wall)
+s_adi_bed        | adi      | *It's a* big, blue *bed*. Sit down!  # focus: bed
+s_sam_sit_bed    | sam      | Thank you! *It is* very soft. What is that on your *table*?  # focus: table
+s_adi_lamp       | adi      | *It's a* funny *lamp*. Watch this!  # focus: lamp
+s_adi_turn_on_lamp | adi      | (turns it on)
+s_sam_lamp_bright | sam      | Cool! *It is* very bright.
+s_mom_adi_room   | teacher  | Now, Adi is looking for a *toy* with his Mom.  # focus: toy
+s_mom_adi_clean  | mom      | Adi, *it is* time to clean up. Where is your red *car*?  # focus: car
+s_adi_look_around | adi      | *I'm* looking for it, Mom. *It is* not on my *table*.  # focus: table
+s_mom_point_chair | mom      | Look under your *chair*. Is *it* there?  # focus: chair, it
+s_adi_look_curtain | adi      | No, *it isn't*. *What's this* behind the curtain?
+s_adi_find_ball  | adi      | Oh, *it's a* ball!
+s_mom_point_box  | mom      | Check your big *box* of *toys*.  # focus: box, toys
+s_adi_find_car_box | adi      | Ah! Found *it*! My *car is* inside the *box*.  # focus: it, box
+s_dad_adi_room   | teacher  | Now, Adi is getting ready for *bed* with his Dad.  # focus: bed
+s_dad_adi_bed    | dad      | Adi, time for sleep. Switch off the *light*, please.  # focus: light
+s_adi_ask_lamp   | adi      | Can *I keep* my little *lamp* on, Dad?  # focus: lamp
+s_dad_lamp_on    | dad      | Okay, you can keep the *lamp* on. Put your storybook on the *table*.  # focus: lamp, table
+s_adi_teddy_bed  | adi      | Look, my teddy bear *is* already sleeping on the *bed*!  # focus: is, bed
+s_dad_laugh      | dad      | Haha, yes he *is*. Goodnight, Adi.  # focus: is
+s_adi_goodnight  | adi      | Goodnight, Dad!
+
+== Section Title
+narrator         | narrator | Live Vocal Activities
+h_teacher_explain | teacher  | Let's play a game called "Tap and Name"!
+h_teacher_smile  | teacher  | I will tap an object, and you quickly say what *it is* using our *shortcuts*!  # focus: shortcuts
+s_teacher_tap_bed | teacher  | (Teacher taps a *bed*.)  # focus: bed
+s_adi_say_bed    | adi      | *It's a bed*!
+s_teacher_tap_table | teacher  | (Teacher taps a *table*.)  # focus: table
+s_adi_say_table  | adi      | *It's a table*!
+s_teacher_tap_chair | teacher  | (Teacher taps a *chair*.)  # focus: chair
+s_adi_say_chair  | adi      | *It's a chair*!
+s_teacher_tap_lamp | teacher  | (Teacher taps a *lamp*.)  # focus: lamp
+s_adi_say_lamp   | adi      | *It's a lamp*!
+h_teacher_explain | teacher  | Now, let's do the "Sound Echo Drill"!
+h_teacher_point  | teacher  | I will say a word, and you *echo* it back to me.  # focus: echo
+h_teacher_say_word | teacher  | *La-mp*!
+h_teacher_repeat | teacher  | Now, you *echo*: *La-mp*!  # focus: echo
+h_teacher_say_word | teacher  | *Bo-x*!
+h_teacher_repeat | teacher  | Now, you *echo*: *Bo-x*!  # focus: echo
+h_teacher_say_word | teacher  | *Toy-z*!
+h_teacher_repeat | teacher  | Now, you *echo*: *Toy-z*!  # focus: echo
+
+== Section Title
+narrator         | narrator | Word Cards
+h_teacher_explain | teacher  | Let's look at some *word cards* and learn more.
+i_word_room      | teacher  | This word is *Room*. card=Room;split=Ro-om  # focus: Room
+h_teacher_tip    | teacher  | A *room* is a space inside a house where you sleep or play.  # focus: room
+i_word_bed       | teacher  | This word is *Bed*. card=Bed;split=Be-d  # focus: Bed
+h_teacher_tip    | teacher  | A *bed* is the soft furniture where you lie down to sleep.  # focus: bed
+i_word_table     | teacher  | This word is *Table*. card=Table;split=Ta-ble  # focus: Table
+h_teacher_tip    | teacher  | A *table* is a flat surface with legs for keeping things.  # focus: table
+i_word_chair     | teacher  | This word is *Chair*. card=Chair;split=Ch-air  # focus: Chair
+h_teacher_tip    | teacher  | A *chair* is something with a backrest where you sit down.  # focus: chair
+i_word_lamp      | teacher  | This word is *Lamp*. card=Lamp;split=La-mp  # focus: Lamp
+h_teacher_tip    | teacher  | A *lamp* is a small device that gives you light.  # focus: lamp
+i_word_box       | teacher  | This word is *Box*. card=Box;split=Bo-x  # focus: Box
+h_teacher_tip    | teacher  | A *box* is a square container used to hold or store things.  # focus: box
+i_word_toys      | teacher  | This word is *Toys*. card=Toys;split=Toy-z  # focus: Toys
+h_teacher_tip    | teacher  | *Toys* are fun items made for children to play with.  # focus: Toys
+
+== Section Title
+narrator         | narrator | Quiz Time!
+h_teacher_quiz   | teacher  | It's *quiz time*! Let's see how much you learned today.
+h_teacher_question | teacher  | What color is Adi's *bed*?  # focus: bed
+h_teacher_pause  | teacher  | (Pause for child to answer)
+h_teacher_answer | teacher  | The correct answer is: It is *blue*!  # focus: blue
+h_teacher_question | teacher  | What shines bright *light* on the *table*?  # focus: light, table
+h_teacher_pause  | teacher  | (Pause for child to answer)
+h_teacher_answer | teacher  | The correct answer is: The *lamp*!  # focus: lamp
+h_teacher_question | teacher  | Where does Adi sit down?
+h_teacher_pause  | teacher  | (Pause for child to answer)
+h_teacher_answer | teacher  | The correct answer is: On the *chair*!  # focus: chair
+h_teacher_question | teacher  | What is inside the big *box*?  # focus: box
+h_teacher_pause  | teacher  | (Pause for child to answer)
+h_teacher_answer | teacher  | The correct answer is: *Toys*!  # focus: Toys
+h_teacher_question | teacher  | Say "Yes" or "No": Is Adi sad in his *room*?  # focus: room
+h_teacher_pause  | teacher  | (Pause for child to answer)
+h_teacher_answer | teacher  | The correct answer is: *No*!  # focus: No
+
+== Section Title
+narrator         | narrator | Outro
+h_teacher_happy  | teacher  | Great job today, everyone! You learned to *name things* in your *room*.  # focus: room
+h_teacher_review | teacher  | You also practiced speaking clearly and using *shortcuts*!  # focus: shortcuts
+h_teacher_goodbye | teacher  | Keep practicing these words and have fun! See you next time!

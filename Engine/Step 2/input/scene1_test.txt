@@ -1,0 +1,23 @@
+h_teacher_welcome | teacher  | Hello, dear friends! Welcome to our English lesson!
+h_teacher_smile  | teacher  | Today, we will learn about *naming things* in your *room*.
+h_teacher_point  | teacher  | Let's get ready to speak clearly and have fun!
+
+== Section Title
+narrator         | narrator | The Listening and Speaking Story
+s_adis_room_wide | teacher  | Look! This is *Adi's room*.
+s_adi_enter_room | teacher  | Adi likes to play in his *room*. walk
+s_adi_stand_up   | teacher  | He stands up.
+s_adi_point_bed  | teacher  | He points his finger towards his *bed*.
+s_adi_speak      | adi      | Look at my soft, blue *bed*!
+s_adi_jump_bed   | teacher  | He jumps up and down on his *bed*. alt=s_adi_jump_bed_up
+s_adi_smile      | teacher  | He likes his *bed* very much!
+s_adi_walk_corner | teacher  | Next, Adi walks to the corner of his *room*. walk
+s_adi_touch_table | teacher  | He touches his wooden *table*.
+i_table_lamp     | teacher  | On top of the *table* is a little *lamp*.
+i_lamp_on        | teacher  | Flash! The *lamp* shines bright *light*.
+s_adi_sit_chair  | teacher  | Adi sits down on his green *chair*.
+s_adi_look_box   | teacher  | He looks at his big *box*.
+i_box_open       | teacher  | What is inside the *box*?
+i_toys_in_box    | teacher  | It is full of *toys*!
+s_adi_pull_car   | teacher  | He pulls out a shiny red *car*.
+s_adi_smile      | adi      | I love my *room*!

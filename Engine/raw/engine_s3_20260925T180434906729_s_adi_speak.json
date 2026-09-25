@@ -1,0 +1,27 @@
+[
+  {
+    "core_term": "s_adi_speak",
+    "seed_type": "shot-prompt",
+    "prompt": "An Indian boy, Adi, age ~6, wearing a mustard-yellow t-shirt, turned-up denim shorts, white sneakers, messy black hair, big curious brown eyes, and a cheerful expression, standing next to his blue bed in his cozy bedroom. His mouth is slightly open as if speaking, and his eyes are looking at the bed. The wooden table, green chair, and colorful walls of his room are visible. 3D Pixar-style render, soft ambient lighting, vibrant saturated colors, smooth skin with subtle subsurface scattering, large expressive eyes, rounded friendly features, clean sharp details, no text or watermarks, 16:9 landscape desktop aspect ratio, warm color palette",
+    "seed": 42,
+    "raw_output": {
+      "errors": [
+        {
+          "message": "AiError: AiError: Your output has been flagged. Please choose another prompt / input image combination (21c90fdf-b39f-4f40-ad36-dead9d4df4f8)",
+          "code": 3030
+        }
+      ],
+      "success": false,
+      "result": {},
+      "messages": []
+    },
+    "extracted_at": "2026-09-25T18:04:34.906729+00:00",
+    "tokens_or_credits": {
+      "est_usd": 0.001722,
+      "basis": "6 output tiles @ $0.000287; flagged 3030, counted as billed"
+    },
+    "source": "cloudflare workers-ai flux-2-klein-4b",
+    "reason": "Engine Step 3: image generation for shot s_adi_speak",
+    "secs": 21.0
+  }
+]

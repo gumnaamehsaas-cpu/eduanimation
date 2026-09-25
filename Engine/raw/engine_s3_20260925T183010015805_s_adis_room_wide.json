@@ -1,0 +1,17 @@
+[
+  {
+    "core_term": "s_adis_room_wide",
+    "seed_type": "shot-prompt",
+    "prompt": "A wide shot of Adi's stylized 3D animated room. On the left wall is a neatly made blue bed with a blue blanket and pillow. On the right side, near the window, is a wooden study table with one plain white desk lamp (ordinary lamp with shade, no face, no eyes) and a small green wooden chair tucked in front of it. In the far right corner is a big closed wooden toy box (chest with a lid). The back wall has a centered window with cream curtains. The light wooden floor has one soft rug in the center and is perfectly clean. The walls are pale warm-yellow. 3D Pixar-style render, soft ambient lighting, vibrant saturated colors, smooth skin with subtle subsurface scattering, large expressive eyes, rounded friendly features, clean sharp details, no text or watermarks, 16:9 landscape desktop aspect ratio, warm color palette",
+    "seed": 42,
+    "raw_output": "(base64 image omitted, saved to file)",
+    "extracted_at": "2026-09-25T18:30:10.015805+00:00",
+    "tokens_or_credits": {
+      "est_usd": 0.001722,
+      "basis": "6 output tiles @ $0.000287"
+    },
+    "source": "cloudflare workers-ai flux-2-klein-4b",
+    "reason": "Engine Step 3: image generation for shot s_adis_room_wide",
+    "secs": 35.8
+  }
+]

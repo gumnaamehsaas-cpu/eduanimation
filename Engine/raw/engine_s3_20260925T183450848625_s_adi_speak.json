@@ -1,0 +1,27 @@
+[
+  {
+    "core_term": "s_adi_speak",
+    "seed_type": "shot-prompt",
+    "prompt": "A stylized 3D animated small cartoon boy character, Adi, with oversized round head, warm brown skin, wearing a mustard-yellow t-shirt, turned-up denim shorts, white sneakers, messy black hair, big round cartoon eyes, happy smile. He is standing next to his blue bed on the left side of the room, looking at the bed with a big happy smile, gesturing towards the bed with an open hand. The room features a blue bed on the left, a wooden study table with a plain white desk lamp and green chair on the right, a closed wooden toy box in the far right corner, a window with cream curtains on the back wall, a light wooden floor with a soft rug in the center, and pale warm-yellow walls. The floor is clean. 3D Pixar-style render, soft ambient lighting, vibrant saturated colors, smooth skin with subtle subsurface scattering, large expressive eyes, rounded friendly features, clean sharp details, no text or watermarks, 16:9 landscape desktop aspect ratio, warm color palette",
+    "seed": 42,
+    "raw_output": {
+      "errors": [
+        {
+          "message": "AiError: AiError: Your output has been flagged. Please choose another prompt / input image combination (5e35c704-fa22-4fe0-acab-aad4be93f3ee)",
+          "code": 3030
+        }
+      ],
+      "success": false,
+      "result": {},
+      "messages": []
+    },
+    "extracted_at": "2026-09-25T18:34:50.848625+00:00",
+    "tokens_or_credits": {
+      "est_usd": 0.001722,
+      "basis": "6 output tiles @ $0.000287; flagged 3030, counted as billed"
+    },
+    "source": "cloudflare workers-ai flux-2-klein-4b",
+    "reason": "Engine Step 3: image generation for shot s_adi_speak",
+    "secs": 34.0
+  }
+]

@@ -1,0 +1,17 @@
+[
+  {
+    "core_term": "s_adis_room_wide",
+    "seed_type": "shot-prompt",
+    "prompt": "A tidy, clean, cozy room with pale warm-yellow walls, a blue bed neatly made with a blue blanket and pillow, a wooden study table, a plain white desk lamp with a simple shade on the table, a small green wooden chair, a big wooden toy box with toys INSIDE it, a light wooden floor with a soft rug, and a window with cream curtains. The floor is clean and clear of clutter. No characters are visible. 3D Pixar-style render, soft ambient lighting, vibrant saturated colors, smooth skin with subtle subsurface scattering, large expressive eyes, rounded friendly features, clean sharp details, no text or watermarks, 16:9 landscape desktop aspect ratio, warm color palette",
+    "seed": 42,
+    "raw_output": "(base64 image omitted, saved to file)",
+    "extracted_at": "2026-09-25T18:15:07.104169+00:00",
+    "tokens_or_credits": {
+      "est_usd": 0.001722,
+      "basis": "6 output tiles @ $0.000287"
+    },
+    "source": "cloudflare workers-ai flux-2-klein-4b",
+    "reason": "Engine Step 3: image generation for shot s_adis_room_wide",
+    "secs": 20.0
+  }
+]

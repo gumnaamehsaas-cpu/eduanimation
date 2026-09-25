@@ -1,0 +1,27 @@
+[
+  {
+    "core_term": "s_adi_touch_table",
+    "seed_type": "shot-prompt",
+    "prompt": "An Indian boy, Adi, age ~6, wearing a mustard-yellow t-shirt, turned-up denim shorts, white sneakers, messy black hair, big curious brown eyes, and a cheerful expression, standing next to a wooden table in his cozy bedroom, gently touching the table's surface with one hand. His eyes are focused on the table. A green chair and colorful walls are visible. 3D Pixar-style render, soft ambient lighting, vibrant saturated colors, smooth skin with subtle subsurface scattering, large expressive eyes, rounded friendly features, clean sharp details, no text or watermarks, 16:9 landscape desktop aspect ratio, warm color palette",
+    "seed": 42,
+    "raw_output": {
+      "errors": [
+        {
+          "message": "AiError: AiError: Your output has been flagged. Please choose another prompt / input image combination (affae678-1808-442e-9971-6db76a25b437)",
+          "code": 3030
+        }
+      ],
+      "success": false,
+      "result": {},
+      "messages": []
+    },
+    "extracted_at": "2026-09-25T18:06:04.776819+00:00",
+    "tokens_or_credits": {
+      "est_usd": 0.001722,
+      "basis": "6 output tiles @ $0.000287; flagged 3030, counted as billed"
+    },
+    "source": "cloudflare workers-ai flux-2-klein-4b",
+    "reason": "Engine Step 3: image generation for shot s_adi_touch_table",
+    "secs": 25.2
+  }
+]

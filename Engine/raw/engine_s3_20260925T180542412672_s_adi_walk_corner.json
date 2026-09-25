@@ -1,0 +1,27 @@
+[
+  {
+    "core_term": "s_adi_walk_corner",
+    "seed_type": "shot-prompt",
+    "prompt": "An Indian boy, Adi, age ~6, wearing a mustard-yellow t-shirt, turned-up denim shorts, white sneakers, messy black hair, big curious brown eyes, and a cheerful expression, walking towards a corner of his cozy bedroom where a wooden table and green chair are located. His eyes are looking forward. The blue bed and colorful walls of his room are also visible. 3D Pixar-style render, soft ambient lighting, vibrant saturated colors, smooth skin with subtle subsurface scattering, large expressive eyes, rounded friendly features, clean sharp details, no text or watermarks, 16:9 landscape desktop aspect ratio, warm color palette",
+    "seed": 42,
+    "raw_output": {
+      "errors": [
+        {
+          "message": "AiError: AiError: Your output has been flagged. Please choose another prompt / input image combination (ddf07b8f-b321-4577-b61c-1912a0fb19e1)",
+          "code": 3030
+        }
+      ],
+      "success": false,
+      "result": {},
+      "messages": []
+    },
+    "extracted_at": "2026-09-25T18:05:42.412672+00:00",
+    "tokens_or_credits": {
+      "est_usd": 0.001722,
+      "basis": "6 output tiles @ $0.000287; flagged 3030, counted as billed"
+    },
+    "source": "cloudflare workers-ai flux-2-klein-4b",
+    "reason": "Engine Step 3: image generation for shot s_adi_walk_corner",
+    "secs": 22.4
+  }
+]
